@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/guests/190110918/user-land-filesystem/fs/newfs/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9  -I/home/guests/190110918/user-land-filesystem/fs/newfs/./include   -D_FILE_OFFSET_BITS=64 -no-pie -g -Wall --pedantic -g   -o CMakeFiles/newfs.dir/src/newfs.c.o   -c /home/guests/190110918/user-land-filesystem/fs/newfs/src/newfs.c",
+  "file": "/home/guests/190110918/user-land-filesystem/fs/newfs/src/newfs.c"
+}
+]
